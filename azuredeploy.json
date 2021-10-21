@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "aci_name": {
-            "defaultValue": "mahsum",
+            "defaultValue": "huseyin",
             "type": "string"
         },
         "mining_pool_address": {
